@@ -8,13 +8,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://res.cloudinary.com/dwy1yaaxg/image/upload/v1752058131/Screenshot_2025-07-09_160837_zdjh3w.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dwy1yaaxg/image/upload/v1752058131/Screenshot_2025-07-09_160837_zdjh3w.png" alt="project-screenshot" width="1000" height="400/">
 
-<img src="https://res.cloudinary.com/dwy1yaaxg/image/upload/v1752058131/Screenshot_2025-07-09_161413_nhcwtb.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dwy1yaaxg/image/upload/v1752058131/Screenshot_2025-07-09_161413_nhcwtb.png" alt="project-screenshot" width="1000" height="400/">
 
-<img src="https://res.cloudinary.com/dwy1yaaxg/image/upload/v1752058131/Screenshot_2025-07-09_161432_fvmtnn.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dwy1yaaxg/image/upload/v1752058131/Screenshot_2025-07-09_161432_fvmtnn.png" alt="project-screenshot" width="1000" height="400/">
 
-<img src="https://res.cloudinary.com/dwy1yaaxg/image/upload/v1752058133/Screenshot_2025-07-09_161501_xohkwp.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dwy1yaaxg/image/upload/v1752058133/Screenshot_2025-07-09_161501_xohkwp.png" alt="project-screenshot" width="1000" height="400/">
 
 <h2>🧐 Features</h2>
 
